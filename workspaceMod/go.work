@@ -1,0 +1,12 @@
+go 1.24.3
+
+use (
+	./data-access
+	./example/hello
+	./fuzz
+	./generics
+	./hello
+	./tree
+	./vuln-tutorial
+	./web-service-gin
+)
